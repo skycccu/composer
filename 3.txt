@@ -1,15 +1,6 @@
 test branch
 
-<<<<<<< HEAD
 
-
-
-
-sfsdfsdf
-sdfsdfs
-sdfsdf
-sdfsd
-=======
 
 
 
@@ -18,4 +9,3 @@ sfsdfsdf
 sdfsdfs
 sdfsdf
 sdfsd
->>>>>>> featurel
