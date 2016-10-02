@@ -1,1 +1,2 @@
-create two file .
+modified 2.txt file,
+git is free software distributed under the gpl.
